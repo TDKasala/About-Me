@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Denis Kasala
-- 👀 I’m interested in software engineering. 
-- 🌱 I’m currently learning python for programming. 
-- 💞️ I’m looking to collaborate on developing software and more. 
+- Software engineer
+- Python, MySQL, Django, HTML, CSS
 - 📫 How to reach me : via email at deniskasala17@gmail.com or +27728964904
 
 <!---
